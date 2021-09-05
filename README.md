@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sureshrajaselvadurai
 - 👀 I’m interested in ...Data Science, Automation
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sureshrajaselvadurai@gmail.com
